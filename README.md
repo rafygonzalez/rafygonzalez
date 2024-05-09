@@ -1,6 +1,8 @@
 <!-- LÍNEA DE ARCOÍRIS SUPERIOR -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
 
+Hola soy Rafael Gonzalez 👋
+
 📫 Puedes contactarme a través de mi correo electrónico: rafygonzalez089@gmail.com
 
 💼 LinkedIn ➡️ [https://www.linkedin.com/in/rafael-gonzalez-software-developer](https://www.linkedin.com/in/rafael-gonzalez-software-developer)
@@ -21,5 +23,11 @@
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
-	<img alt="Figma" src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=black" />
- <p align="center"><img alt="Gif decorativo final" src="https://i.postimg.cc/k5wGrps2/giphy.gif" /></p>
+![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+ 
+Machine Learning 🤖  Deep Learning 🧠 - Skills 
+
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+<img alt="Figma" src="https://img.shields.io/badge/Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=black" />
+<p align="center"><img alt="Gif decorativo final" src="https://i.postimg.cc/k5wGrps2/giphy.gif" /></p>
